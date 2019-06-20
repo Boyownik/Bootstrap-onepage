@@ -1,0 +1,102 @@
+/* GENERAL */
+*{
+    font-family: 'Raleway', sans-serif;
+}
+.btn-orange{
+    background-color: #e38f42;
+    color: #fff;
+}
+.btn-orange:hover{
+    background-color: #f19b4a;
+}
+.btn-gray{
+    color: #fff;
+    background-color: #0000008c;
+}
+.btn-gray:hover{
+    background-color: #8582828c;
+}
+.link-primary {
+    color: #e38f42;
+}
+/* NAVIGATION */
+.navbar {
+    background-color: #444;
+}
+.nav-link, .navbar-brand{
+    color: #c2c2c2;
+}
+.nav-link:hover, .navbar-brand:hover{
+    color:#fff;
+}
+section, footer {
+    padding: 120px 0;
+}
+.link-primary:hover {
+    color: #a06227;
+}
+/* JOIN US */
+.join-us {
+    background-image: url(https://akademia108.pl/kurs-front-end/form-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.join-us form {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.join-us h1,
+.join-us h2 {
+    color: #fff;
+}
+.join-us p {
+    color: #c2c2c2;
+}
+.join-us header {
+    background-color: rgba(0, 0, 0, 0.35);
+    padding: 0 25px;
+    margin: 0;
+}
+.icon-pencil {
+    color: #c2c2c2;
+    font-size: 4em;
+    padding-top: 10px;
+}
+.join-us fieldset {
+    padding: 0 25px;
+}
+.join-us input,
+.join-us textarea {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px 15px;
+    border-radius: 4px;
+}
+.join-us fieldset .agreement {
+    padding: 15px;
+}
+.join-us .content-holder {
+    padding-top: 120px;
+}
+.join-us .btn {
+    padding: 10px;
+    margin-left: 10px;
+}
+
+/* INSPIRATION */
+.inspiration .video {
+    padding-left: 30px;
+}
+.inspiration h1 {
+    color: #000;
+}
+.inspiration p {
+    color: #888;
+}
+/* FOOTER */
+footer {
+    background-color: #f8f8f8;
+}
+footer p {
+    color: #888;
+}

@@ -1,0 +1,22 @@
+@media (max-width: 1200px) {
+    .inspiration iframe {
+        padding-right: 30px;
+    }
+}
+@media (max-width: 992px) {
+    .join-us .btn-orange {
+        margin: 10px 0;
+    }
+    .inspiration iframe {
+        padding-right: 120px;
+        text-align: center;
+        width: 760px;
+        height: 415px;
+    }
+    .inspiration .content-holder {
+        text-align: center;
+    }
+    footer .content-holder {
+        text-align: center;
+    }
+}
